@@ -1,0 +1,9 @@
+<templateSet group="UserTemplate">
+  <template name="header" value="/**&#10; * Created by ZhuMingYang&#10; * $DATE$ $TIME$&#10; * Description: &#10; */" description="文件头注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
