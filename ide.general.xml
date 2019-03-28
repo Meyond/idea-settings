@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="inactiveTimeout" value="45" />
+    <option name="inactiveTimeout" value="30" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
