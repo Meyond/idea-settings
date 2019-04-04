@@ -1,0 +1,7 @@
+<application>
+  <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+  </component>
+</application>
