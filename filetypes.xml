@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="wxss" type="CSS" />
-      <mapping ext="wxml" type="HTML" />
       <mapping ext="wxs" type="JavaScript" />
-      <removed_mapping ext="wxml" approved="true" type="Vue.js" />
+      <mapping ext="wxml" type="Vue.js" />
+      <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping ext="wxss" approved="true" type="SCSS" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
