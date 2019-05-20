@@ -6,6 +6,10 @@
           <option name="url" value="http://g666it.jingdaka.com" />
           <option name="userName" value="zhumingyang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git5b.jingdaka.com" />
+          <option name="userName" value="zhumingyang" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
