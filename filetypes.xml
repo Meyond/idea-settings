@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="wxml" type="Vue.js" />
