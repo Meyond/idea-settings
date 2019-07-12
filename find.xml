@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="项目 'jdk_album_web'" />
-    <option name="defaultScopeName" value="项目 'jdk_album_web'" />
+    <option name="customScope" value="目录 '...\src [jxc_pc_operation]'" />
+    <option name="defaultScopeName" value="目录 '...\src [jxc_pc_operation]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="项目 'jdk_album_web'" />
+    <option name="SEARCH_SCOPE" value="目录 '...\src [jxc_pc_operation]'" />
   </component>
 </application>
