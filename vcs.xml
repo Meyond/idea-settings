@@ -10,6 +10,10 @@
           <option name="url" value="http://git5b.jingdaka.com" />
           <option name="userName" value="zhumingyang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://myzhu1989.visualstudio.com" />
+          <option name="userName" value="oneboystar@msn.cn" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
