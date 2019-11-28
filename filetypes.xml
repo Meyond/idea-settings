@@ -10,10 +10,11 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="wxml" type="WXML" />
-      <removed_mapping ext="wxss" approved="true" type="WXSS" />
+      <removed_mapping ext="wxss" type="WXSS" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="wxss" approved="true" type="Wxss" />
+      <removed_mapping ext="wxss" type="WXSS" />
+      <removed_mapping ext="wxml" type="WXML" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
